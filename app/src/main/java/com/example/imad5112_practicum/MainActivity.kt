@@ -9,9 +9,9 @@ class MainActivity : AppCompatActivity() {
 
     companion object {
         var titles = arrayOf("The Godfather", "The Dark Knight", "Pulp Fiction")
-        var directors = arrayOf("Francis Ford Coppola", "Christopher Nolan", "Quentin Tarantino")
-        var ratings = intArrayOf(10, 9, 9)
-        var comments = arrayOf("Masterpiece", "Excellent", "Classic")
+        var directors = arrayOf("Francis Ford Coppola", "# ", "Quentin Tarantino")
+        var ratings = intArrayOf(5, 0, 4)
+        var comments = arrayOf("Masterpiece", "# ", "Quirky and Captivanting")
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
