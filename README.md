@@ -68,3 +68,10 @@ override fun onCreate(savedInstanceState: Bundle?) {
         startActivity(intent)
     }
 }
+
+
+<img width="548" height="1069" alt="image" src="https://github.com/user-attachments/assets/329b4c16-b639-40a8-91d7-93cab727f90f" />
+<img width="481" height="941" alt="image" src="https://github.com/user-attachments/assets/9b95088a-1e60-47d3-b906-e415b1974a52" />
+`
+<img width="940" height="586" alt="image" src="https://github.com/user-attachments/assets/cc9e4706-9565-493c-917c-c020aeb5dea4" />
+
